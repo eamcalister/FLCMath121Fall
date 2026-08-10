@@ -30,9 +30,9 @@
         <li>
             <em>Section 3 Time and Room(s):</em> 11:15am-12:10pm, MWThF EBH 060
         </li>
-        <li>
+        <!--li>
             <em>Section 4 Time and Room(s):</em> 2:30-3:25pm, MWF Noble 110, Th Berndt 340
-        </li>
+        </li-->
       </ul>
     </li>
         <li><title>Instructors</title>
@@ -47,11 +47,11 @@
                 <em>Section 2 - </em> Dana Hunter, EBH 261?, (<url href="mailto:dfhunter@fortlewis.edu">dfhunter@fortlewis.edu</url>)
               </p>
             </li>
-            <li>
+            <!--li>
               <p>
                 <em>Section 4 - </em> Veronika Furst, EBH 260, (<url href="mailto:furst_v@fortlewis.edu">furst_v@fortlewis.edu</url>)
               </p>
-            </li>
+            </li-->
           </ul>        
         </li>
       </dl>
@@ -80,11 +80,11 @@
     <title>Student Office Hours</title>
     <p>
     <ul>
-      <li>
+      <!--li>
         <p>
           <em>Veronika Furst's Office Hours:</em> TBD.
         </p>
-      </li>
+      </li-->
       <li>
         <p>
           <em>Dana Hunter's Office Hours:</em> TBD 
@@ -92,7 +92,7 @@
       </li>
       <li>
         <p>
-          <em>Erich McAlister's Office Hours:</em> TBD
+          <em>Erich McAlister's Office Hours:</em> MW 1-2:30pm in EBH 262, F 1-2:30pm in the PEC. Also available by appointment (contact via email to set something up).
         </p>
       </li>
     </ul>
