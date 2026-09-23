@@ -53,7 +53,7 @@
 
     <task>
 <statement>
-<sidebyside>
+<sidebyside widths="60% 40%">
 <p>
  <image>
 
@@ -77,16 +77,11 @@
 
 </p>
     
-
-
-<paragraphs> 
 <p>    
 Draw the points on the unit circle at <m> \theta = \pi/6, \pi/3, \pi/4, </m> and any other points whose reference angles equal <m> \pi/3, \pi/4, </m> or <m> \pi/6. </m> 
-</p>
-<p>
 <em>Note:</em> There should be 12 total points.
 </p>
-</paragraphs>
+
 </sidebyside>
 </statement>
 </task> 
