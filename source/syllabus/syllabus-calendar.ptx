@@ -208,10 +208,10 @@
     <p>
     <tabular>
         <row>
-            <cell>Monday</cell> <cell>10.2 - Inverse Functions</cell>
+            <cell><stale>Monday</stale> Wednesday</cell> <cell>10.2 - Inverse Functions</cell>
         </row>
         <row>
-            <cell>Wednesday</cell> <cell>10.4 - Combinations of Functions</cell>
+            <cell><stale>Wednesday</stale></cell> <cell><stale>10.4 - Combinations of Functions</stale>Flood Day Adjustment</cell>
         </row>
         <row>
             <cell>Thursday</cell> <cell>Week 11 Activity - More on Inverse Functions</cell>
